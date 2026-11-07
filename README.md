@@ -39,7 +39,3 @@ No Windows:
 3. Ao cadastrar uma pergunta, ela e salva em `perguntas.txt`.
 4. Ao terminar uma partida, o resultado e salvo em `historico.txt`.
 5. O ranking usa bubble sort para ordenar os jogadores pelo percentual de acertos, do maior para o menor.
-
-## Video de demonstracao
-
-Link do video nao listado: (https://www.youtube.com/watch?v=lv7yk85QgWs)
