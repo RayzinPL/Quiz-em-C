@@ -1,0 +1,7 @@
+Qual a capital do Brasil?;Sao Paulo;Rio de Janeiro;Brasilia;Salvador;C
+Quanto e 5 + 3?;5;8;9;7;B
+Qual linguagem estamos usando neste projeto?;Python;Java;C;JavaScript;C
+Qual a cor do ceu?;Verde;Azul;Rosa;Preto;B
+Qual a cor do mar;azul;vermelho;roxo;amarelo;A
+Quantos anos eu tenho?;23;64;13;19;D
+Quantos anos eu tenho?;90;54;19;24;C
